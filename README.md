@@ -13,4 +13,4 @@
 
 ![asd](재미...있으니까.jpg)
 
-[][asd](https://user-images.githubusercontent.com/67495674/110884454-77fe0a00-8328-11eb-964b-b8dd135f052f.jpg)](https://www.youtube.com/watch?v=pwsdg9H3chY)
+[][asd](https://opgg-com-image.akamaized.net/attach/images/20200513062029.1056898.jpg)](https://www.youtube.com/watch?v=pwsdg9H3chY)
