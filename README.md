@@ -13,4 +13,4 @@
 
 ![asd](재미...있으니까.jpg)
 
-[][이미지 이름](재미...있으니까.jpg)(https://www.youtube.com/watch?v=pwsdg9H3chY)
+[][](재미...있으니까.jpg)(https://www.youtube.com/watch?v=pwsdg9H3chY)
