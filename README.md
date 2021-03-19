@@ -11,4 +11,4 @@
 
 ![재미 있으니까](https://user-images.githubusercontent.com/67495674/110884454-77fe0a00-8328-11eb-964b-b8dd135f052f.jpg)
 ![asd](재미...있으니까.jpg)
-![재미...][](https://user-images.githubusercontent.com/67495674/110884454-77fe0a00-8328-11eb-964b-b8dd135f052f.jpg)(https://www.youtube.com/watch?v=pwsdg9H3chY)
+[][이미지 ](https://user-images.githubusercontent.com/67495674/110884454-77fe0a00-8328-11eb-964b-b8dd135f052f.jpg)(https://www.youtube.com/watch?v=pwsdg9H3chY)
